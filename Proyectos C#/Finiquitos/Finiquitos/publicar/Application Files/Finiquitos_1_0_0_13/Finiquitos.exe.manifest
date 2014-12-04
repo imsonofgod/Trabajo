@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Finiquitos.exe" version="1.0.0.13" publicKeyToken="b6bdbed07be007ff" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Finiquitos" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Finiquitos.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opciones del manifiesto de Control de cuentas de usuario
+          Si desea cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el 
+          nodo requestedExecutionLevel por alguno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si desea usar la virtualización de archivos y del Registro para la 
+         compatibilidad con versiones anteriores, elimine el nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.VisualBasic.PowerPacks.Vs" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Finiquitos.exe" size="2537984">
+      <assemblyIdentity name="Finiquitos" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>yIazKaTM3h+kl4wIFoFST7sdoZE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="es\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll" size="65128">
+      <assemblyIdentity name="Microsoft.VisualBasic.PowerPacks.Vs.resources" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="es" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>DhOcLsZLOsJUzgYNQO96184Nhps=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Finiquitos.exe.config" size="423">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>uT8mnxuMtlqHfGp6MNsX5+mwQt8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="logo_amarillascom.ico" size="50750">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>QPjAXLQftPHoF/sqsuOMnbEAO0U=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=AM-PC-95\juan.bustos" issuerKeyHash="74bb72942ca6be60213883356b3505ff48b8c27f" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>DXop+btLh3lPHGqG0NlfajEWFPA=</DigestValue></Reference></SignedInfo><SignatureValue>D2/hk60fsEfErZkWK/8gxJG25fU+64mRdFHDptCMtfyAolf+e604TmxuABlUYQgf5JntLH7Qw053r2BPY0JyxiXxq4W44EDUf0RvcofGVtBFxFfXqSix5TWfjL/ZF4nFVGGp2f2UPiD62ingSaJ3m+VxbkVTDrkD3idxeml+eZY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>trsFwATAlh/BnibZGGKPaWcT9otXbjkRCUf3w+iejNxssvvZxU9ZDA8jMFNENYsgc0wdZSe/zg4bKJsL1pivsR2VzNSyKC94F8DLQMR/TO6KsAttp0MRUXxE1QwavTvwHggSwZBMuXEs4ltiw5oyXx2i8GopV7dbTBNuW1I7D1M=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="f01416316a5fd9d0866a1c4f79874bbbf9297a0d" Description="" Url=""><as:assemblyIdentity name="Finiquitos.exe" version="1.0.0.13" publicKeyToken="b6bdbed07be007ff" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=AM-PC-95\juan.bustos</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>zYUiLPa/VjkcqL+tE6SbPd/DcLY=</DigestValue></Reference></SignedInfo><SignatureValue>jLBTTUGeQTX3TXpF+xOJI16pzpTMOy1CKErEZFZM50ElxIadXv/rUrTv5SPx5s2QX+Ju4d6661Cew6T1RggKi0ttPCR6/+vqpG9jUFwwnpa9SfNtCfCW6Xpp4kPO5+sov3afWnIPdrVDu7Bgj+cR4l8G+APbm09Gzm6rLQtSKdI=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>trsFwATAlh/BnibZGGKPaWcT9otXbjkRCUf3w+iejNxssvvZxU9ZDA8jMFNENYsgc0wdZSe/zg4bKJsL1pivsR2VzNSyKC94F8DLQMR/TO6KsAttp0MRUXxE1QwavTvwHggSwZBMuXEs4ltiw5oyXx2i8GopV7dbTBNuW1I7D1M=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQE3kM/758BaxAL46iwrm1mTANBgkqhkiG9w0BAQUFADAzMTEwLwYDVQQDHigAQQBNAC0AUABDAC0AOQA1AFwAagB1AGEAbgAuAGIAdQBzAHQAbwBzMB4XDTE0MDgyNTE5NDQzOVoXDTE1MDgyNjAxNDQzOVowMzExMC8GA1UEAx4oAEEATQAtAFAAQwAtADkANQBcAGoAdQBhAG4ALgBiAHUAcwB0AG8AczCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAtrsFwATAlh/BnibZGGKPaWcT9otXbjkRCUf3w+iejNxssvvZxU9ZDA8jMFNENYsgc0wdZSe/zg4bKJsL1pivsR2VzNSyKC94F8DLQMR/TO6KsAttp0MRUXxE1QwavTvwHggSwZBMuXEs4ltiw5oyXx2i8GopV7dbTBNuW1I7D1MCAwEAATANBgkqhkiG9w0BAQUFAAOBgQCVO6vTj9vUbuyiDGcFtLbbSWbyXel9WS0dAdkDA326FA32rr3LrsTL0diYvVEKBoFTNtLrleIKm2ujNAkj6NIcmxnicslzOuN9ZSeliFc/mOejtwqOA7VKlR03KpowcxeM2lhMqTsHr5BHZ6VEhmqsX1AlwH9TaYNiNXzzA37nqg==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

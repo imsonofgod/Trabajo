@@ -1,0 +1,30 @@
+c:\users\juan.bustos\documents\visual studio 2012\Projects\CargaWord\CargaWord\bin\Debug\CargaWord.exe
+c:\users\juan.bustos\documents\visual studio 2012\Projects\CargaWord\CargaWord\bin\Debug\CargaWord.pdb
+c:\users\juan.bustos\documents\visual studio 2012\Projects\CargaWord\CargaWord\bin\Debug\CargaWord.xml
+c:\users\juan.bustos\documents\visual studio 2012\Projects\CargaWord\CargaWord\obj\Debug\CargaWord.Form1.resources
+c:\users\juan.bustos\documents\visual studio 2012\Projects\CargaWord\CargaWord\obj\Debug\CargaWord.Resources.resources
+c:\users\juan.bustos\documents\visual studio 2012\Projects\CargaWord\CargaWord\obj\Debug\CargaWord.vbproj.GenerateResource.Cache
+c:\users\juan.bustos\documents\visual studio 2012\Projects\CargaWord\CargaWord\obj\Debug\CargaWord.exe
+c:\users\juan.bustos\documents\visual studio 2012\Projects\CargaWord\CargaWord\obj\Debug\CargaWord.xml
+c:\users\juan.bustos\documents\visual studio 2012\Projects\CargaWord\CargaWord\obj\Debug\CargaWord.pdb
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\CargaWord\CargaWord\bin\Debug\CargaWord.exe.manifest
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\CargaWord\CargaWord\bin\Debug\CargaWord.application
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\CargaWord\CargaWord\obj\Debug\CargaWord.vbprojResolveAssemblyReference.cache
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\CargaWord\CargaWord\obj\Debug\CargaWord.TrustInfo.xml
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\CargaWord\CargaWord\obj\Debug\CargaWord.exe.manifest
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\CargaWord\CargaWord\obj\Debug\CargaWord.application
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\todo 3\CargaWord\CargaWord\obj\Debug\CargaWord.exe
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\todo 3\CargaWord\CargaWord\obj\Debug\CargaWord.xml
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\todo 3\CargaWord\CargaWord\obj\Debug\CargaWord.pdb
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\todo 3\CargaWord\CargaWord\bin\Debug\CargaWord.exe.manifest
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\todo 3\CargaWord\CargaWord\bin\Debug\CargaWord.application
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\todo 3\CargaWord\CargaWord\bin\Debug\CargaWord.exe
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\todo 3\CargaWord\CargaWord\bin\Debug\CargaWord.pdb
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\todo 3\CargaWord\CargaWord\bin\Debug\CargaWord.xml
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\todo 3\CargaWord\CargaWord\obj\Debug\CargaWord.vbprojResolveAssemblyReference.cache
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\todo 3\CargaWord\CargaWord\obj\Debug\CargaWord.Form1.resources
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\todo 3\CargaWord\CargaWord\obj\Debug\CargaWord.Resources.resources
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\todo 3\CargaWord\CargaWord\obj\Debug\CargaWord.vbproj.GenerateResource.Cache
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\todo 3\CargaWord\CargaWord\obj\Debug\CargaWord.TrustInfo.xml
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\todo 3\CargaWord\CargaWord\obj\Debug\CargaWord.exe.manifest
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\todo 3\CargaWord\CargaWord\obj\Debug\CargaWord.application

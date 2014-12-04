@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="Finiquitos.Properties.Settings.desarrolloConnectionString"
+            connectionString="Data Source=10.1.3.53;Initial Catalog=desarrollo;User ID=jbustos;Password=jbustos2014"
+            providerName="System.Data.SqlClient" />
+    </connectionStrings>
+</configuration>

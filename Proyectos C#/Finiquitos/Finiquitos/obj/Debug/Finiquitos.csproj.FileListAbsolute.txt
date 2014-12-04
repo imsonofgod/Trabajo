@@ -1,0 +1,60 @@
+c:\users\juan.bustos\documents\visual studio 2012\Projects\Finiquitos\Finiquitos\bin\Debug\Finiquitos.exe
+c:\users\juan.bustos\documents\visual studio 2012\Projects\Finiquitos\Finiquitos\bin\Debug\Finiquitos.pdb
+c:\users\juan.bustos\documents\visual studio 2012\Projects\Finiquitos\Finiquitos\obj\Debug\Finiquitos.Properties.Resources.resources
+c:\users\juan.bustos\documents\visual studio 2012\Projects\Finiquitos\Finiquitos\obj\Debug\Finiquitos.csproj.GenerateResource.Cache
+c:\users\juan.bustos\documents\visual studio 2012\Projects\Finiquitos\Finiquitos\obj\Debug\Finiquitos.exe
+c:\users\juan.bustos\documents\visual studio 2012\Projects\Finiquitos\Finiquitos\obj\Debug\Finiquitos.pdb
+c:\users\juan.bustos\documents\visual studio 2012\Projects\Finiquitos\Finiquitos\obj\Debug\Finiquitos.csprojResolveAssemblyReference.cache
+c:\users\juan.bustos\documents\visual studio 2012\Projects\Finiquitos\Finiquitos\obj\Debug\Finiquitos.frmLogin.resources
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\Finiquitos\Finiquitos\bin\Debug\Finiquitos.exe.manifest
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\Finiquitos\Finiquitos\bin\Debug\Finiquitos.application
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\Finiquitos\Finiquitos\obj\Debug\Finiquitos.exe.manifest
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\Finiquitos\Finiquitos\obj\Debug\Finiquitos.application
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\Finiquitos\Finiquitos\obj\Debug\Finiquitos.PrincipalMDI.resources
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\Finiquitos\Finiquitos\obj\Debug\Finiquitos.FormularioFiniquito.resources
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\Finiquitos\Finiquitos\obj\Debug\Finiquitos.GestionUsuario.resources
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\Finiquitos\Finiquitos\bin\Debug\Finiquitos.exe.config
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\Finiquitos\Finiquitos\obj\Debug\Finiquitos.EditarUsuario.resources
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\Finiquito 14-09-2014\Finiquitos\Finiquitos\bin\Debug\Finiquitos.exe.config
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\Finiquito 14-09-2014\Finiquitos\Finiquitos\obj\Debug\Finiquitos.exe
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\Finiquito 14-09-2014\Finiquitos\Finiquitos\obj\Debug\Finiquitos.pdb
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\Finiquito 14-09-2014\Finiquitos\Finiquitos\bin\Debug\Finiquitos.exe.manifest
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\Finiquito 14-09-2014\Finiquitos\Finiquitos\bin\Debug\Finiquitos.application
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\Finiquito 14-09-2014\Finiquitos\Finiquitos\bin\Debug\Finiquitos.exe
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\Finiquito 14-09-2014\Finiquitos\Finiquitos\bin\Debug\Finiquitos.pdb
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\Finiquito 14-09-2014\Finiquitos\Finiquitos\obj\Debug\Finiquitos.csprojResolveAssemblyReference.cache
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\Finiquito 14-09-2014\Finiquitos\Finiquitos\obj\Debug\Finiquitos.EditarUsuario.resources
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\Finiquito 14-09-2014\Finiquitos\Finiquitos\obj\Debug\Finiquitos.frmLogin.resources
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\Finiquito 14-09-2014\Finiquitos\Finiquitos\obj\Debug\Finiquitos.FormularioFiniquito.resources
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\Finiquito 14-09-2014\Finiquitos\Finiquitos\obj\Debug\Finiquitos.GestionUsuario.resources
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\Finiquito 14-09-2014\Finiquitos\Finiquitos\obj\Debug\Finiquitos.PrincipalMDI.resources
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\Finiquito 14-09-2014\Finiquitos\Finiquitos\obj\Debug\Finiquitos.Properties.Resources.resources
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\Finiquito 14-09-2014\Finiquitos\Finiquitos\obj\Debug\Finiquitos.csproj.GenerateResource.Cache
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\Finiquito 14-09-2014\Finiquitos\Finiquitos\obj\Debug\Finiquitos.exe.manifest
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\Finiquito 14-09-2014\Finiquitos\Finiquitos\obj\Debug\Finiquitos.application
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\respaldo finiquito 14-09-2014\Finiquitos\Finiquitos\bin\Debug\Finiquitos.exe.config
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\respaldo finiquito 14-09-2014\Finiquitos\Finiquitos\obj\Debug\Finiquitos.exe
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\respaldo finiquito 14-09-2014\Finiquitos\Finiquitos\obj\Debug\Finiquitos.pdb
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\respaldo finiquito 17-09-2014\Finiquitos\Finiquitos\bin\Debug\Finiquitos.exe.config
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\respaldo finiquito 17-09-2014\Finiquitos\Finiquitos\obj\Debug\Finiquitos.exe
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\respaldo finiquito 17-09-2014\Finiquitos\Finiquitos\obj\Debug\Finiquitos.pdb
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\respaldo finiquito 17-09-2014\Finiquitos\Finiquitos\bin\Debug\Finiquitos.exe.manifest
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\respaldo finiquito 17-09-2014\Finiquitos\Finiquitos\bin\Debug\Finiquitos.application
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\respaldo finiquito 17-09-2014\Finiquitos\Finiquitos\bin\Debug\Finiquitos.exe
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\respaldo finiquito 17-09-2014\Finiquitos\Finiquitos\bin\Debug\Finiquitos.pdb
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\respaldo finiquito 17-09-2014\Finiquitos\Finiquitos\obj\Debug\Finiquitos.csprojResolveAssemblyReference.cache
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\respaldo finiquito 17-09-2014\Finiquitos\Finiquitos\obj\Debug\Finiquitos.EditarUsuario.resources
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\respaldo finiquito 17-09-2014\Finiquitos\Finiquitos\obj\Debug\Finiquitos.frmLogin.resources
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\respaldo finiquito 17-09-2014\Finiquitos\Finiquitos\obj\Debug\Finiquitos.FormularioFiniquito.resources
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\respaldo finiquito 17-09-2014\Finiquitos\Finiquitos\obj\Debug\Finiquitos.GestionUsuario.resources
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\respaldo finiquito 17-09-2014\Finiquitos\Finiquitos\obj\Debug\Finiquitos.PrincipalMDI.resources
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\respaldo finiquito 17-09-2014\Finiquitos\Finiquitos\obj\Debug\Finiquitos.Properties.Resources.resources
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\respaldo finiquito 17-09-2014\Finiquitos\Finiquitos\obj\Debug\Finiquitos.csproj.GenerateResource.Cache
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\respaldo finiquito 17-09-2014\Finiquitos\Finiquitos\obj\Debug\Finiquitos.exe.manifest
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\respaldo finiquito 17-09-2014\Finiquitos\Finiquitos\obj\Debug\Finiquitos.application
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\Finiquitos\Finiquitos\obj\Debug\Finiquitos.csproj.ResolveComReference.cache
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\Finiquitos\Finiquitos\obj\Debug\Finiquitos.Ayuda.resources
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\Respaldo Finiquitos 02-12-2014\Finiquitos\Finiquitos\bin\Debug\Finiquitos.exe.config
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\Respaldo Finiquitos 02-12-2014\Finiquitos\Finiquitos\obj\Debug\Finiquitos.csproj.ResolveComReference.cache
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\Respaldo Finiquitos 02-12-2014\Finiquitos\Finiquitos\obj\Debug\Finiquitos.exe
+C:\Users\juan.bustos\Documents\Visual Studio 2012\Projects\Respaldo Finiquitos 02-12-2014\Finiquitos\Finiquitos\obj\Debug\Finiquitos.pdb
